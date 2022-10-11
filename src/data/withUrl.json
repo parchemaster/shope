@@ -1,0 +1,356 @@
+
+{
+    "name": "Rozjasňujúca maska",
+    "capacity": "200ml",
+    "price": 12.9,
+    "KS": 6,
+    "url": "http://pimg.eur.marykaycdn.com/HeroList/10000/09020155CU_16_EssMk_008_ns.png"
+},
+{
+    "name": "Rozjasňujúci kondicionér",
+    "capacity": "250ml",
+    "price": 10.9,
+    "url": "https://cdn.notinoimg.com/detail_thumb/loreal-professionnel/3474636975365_01-o.jpg"
+},
+{
+    "name": "Hydratačný šampón",
+    "capacity": "300ml",
+    "price": 9.9,
+    "KS": 24,
+    "url": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,h_1200,w_1200/v1658568517/products/pim/4058172921025-3012534/balea-hydratacny-sampon-na-vlasy"
+},
+{
+    "name": "Hydratačná maska",
+    "capacity": "200ml",
+    "price": 12.9,
+    "KS": 12,
+    "url": "https://www.notino.sk/img/logo300x300.png"
+},
+{
+    "name": "Hydratačný kondicionér",
+    "capacity": "250ml",
+    "price": 10.9,
+    "KS": 6,
+    "url": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,h_1200,w_1200/v1663333468/products/pim/4058172921049-3029999/balea-hydratacny-kondicioner-na-vlasy"
+},
+{
+    "name": "Hĺbkovo čistiaci šampón",
+    "capacity": "300ml",
+    "price": 9.9,
+    "KS": 24,
+    "url": "http://www.svetkadernictva.sk/images/ID-15487-Malibu-C-Un-Do-Goo.jpg"
+},
+{
+    "name": "Suchý šampón",
+    "capacity": "250ml",
+    "price": 9.9,
+    "KS": 12,
+    "url": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,h_ih,w_140/v1665230333/products/pim/StoererROM/dm_Ohne_Mikroplastik-Stoerer_RGB_300px.png"
+},
+{
+    "name": "Pružný vlasový sprej",
+    "capacity": "300ml",
+    "price": 9.9,
+    "url": "https://www.gigalekarna.cz/images/bnr/lekarnicka.jpg"
+},
+{
+    "name": "Airy Textúrujúci sprej",
+    "capacity": "300ml",
+    "price": 9.9,
+    "url": "https://images.squarespace-cdn.com/content/v1/5f149e19723420092a7bd066/1595599482157-BMNN52GGGR3RC7564WPZ/abc.jpg?format=1000w"
+},
+{
+    "name": "Nymph Slaný Sprej",
+    "capacity": "250ml",
+    "price": 9.9,
+    "url": "https://cdn.myshoptet.com/usr/www.lukaslederereshop.cz/user/shop/big/434_nyph-salt-spray.png?60a9739d"
+},
+{
+    "name": "Tuhá pomáda",
+    "capacity": "85ml",
+    "price": 9.9,
+    "url": "https://cdn.myshoptet.com/usr/www.lukaslederereshop.cz/user/shop/big/410_styling-solid-pomade-85ml.png?60a9739d"
+},
+{
+    "name": "Toaletná voda",
+    "capacity": "50ml",
+    "price": 14.9
+},
+{
+    "name": "Hydratačný lotion",
+    "capacity": "150ml",
+    "price": 9.9,
+    "url": "https://m.media-amazon.com/images/I/41OJvQlMK0L._AC_SY1000_.jpg"
+},
+{
+    "name": "Fibre Clinix",
+    "url": "https://dm.henkel-dam.com/is/image/henkel/SKP_SHB_FC_Product-Range_1_3840x1700"
+},
+{
+    "name": "Fibre Clinix Fotify Šampon ",
+    "capacity": "300ml",
+    "price": 5.9,
+    "KS": 6,
+    "url": "https://dm.henkel-dam.com/is/image/henkel/SKP_SHB_FC_Product-Range_1_3840x1700"
+},
+{
+    "name": "Fibre Clinix Fotify Kondicionér ",
+    "capacity": "250ml",
+    "price": 6.9,
+    "url": "https://vvitrina.cz/img/logo-1656407442.jpg"
+},
+{
+    "name": "Fibre Clinix Fortify Multi Repair Lotion",
+    "capacity": "200ml",
+    "price": 6.9,
+    "url": "https://static.necy.eu/i/g/450x450/122556.jpg"
+},
+{
+    "name": "Fibre Clinix Fotify Maska ",
+    "capacity": "250ml",
+    "price": 7.9,
+    "url": "https://i0.wp.com/behindthechair.com/wp-content/uploads/2021/01/SKP-Fibre-Clinix-Fortify-Booster.jpg?fit=600%2C600&ssl=1"
+},
+{
+    "name": "Fibre Clinix Vibrancy Šampon ",
+    "capacity": "300ml",
+    "price": 5.9,
+    "KS": 6,
+    "url": "https://dm.henkel-dam.com/is/image/henkel/SKP_SHB_FC_Product-Range_1_3840x1700"
+},
+{
+    "name": "Fibre Clinix Vibrancy Sprejový kondicionér",
+    "capacity": "200ml",
+    "price": 6.9,
+    "KS": 6,
+    "url": "https://cdn.myshoptet.com/usr/www.bbrothers.shop/user/shop/big/347_fibre-clinix-vibrancy-sprejovy-kondicioner.jpg?615ac646"
+},
+{
+    "name": "Fibre Clinix Vibrancy Maska ",
+    "capacity": "250ml",
+    "price": 7.9,
+    "url": "https://cdn.myshoptet.com/usr/www.m13shop.sk/user/shop/big/255_fibre-clinix-vibrancy-maska.jpg?616474ed"
+},
+{
+    "name": "Fibre Clinix Hydrate Šampon ",
+    "capacity": "300ml",
+    "price": 5.9,
+    "KS": 24,
+    "url": "https://dm.henkel-dam.com/is/image/henkel/SKP_SHB_FC_Product-Range_1_3840x1700"
+},
+{
+    "name": "Fibre Clinix Hydrate Sprejový kondicionér",
+    "capacity": "200ml",
+    "price": 6.9,
+    "KS": 12
+},
+{
+    "name": "Fibre Clinix Hydrate Maska ",
+    "capacity": "250ml",
+    "price": 7.9,
+    "KS": 12,
+    "url": "https://i0.wp.com/behindthechair.com/wp-content/uploads/2021/01/SKP-Fibre-Clinix-Hydrate-Booster.jpg?fit=600%2C600&ssl=1"
+},
+{
+    "name": "Fibre Clinix Volumize Šampon ",
+    "capacity": "300ml",
+    "price": 5.9,
+    "KS": 24,
+    "url": "https://dm.henkel-dam.com/is/image/henkel/SKP_SHB_FC_Product-Range_1_3840x1700"
+},
+{
+    "name": "Fibre Clinix Volumize Sprejový kondicionér",
+    "capacity": "200ml",
+    "price": 6.9,
+    "KS": 12,
+    "url": "https://vvitrina.cz/img/logo-1656407442.jpg"
+},
+{
+    "name": "Fibre Clinix Volumize Maska ",
+    "capacity": "250ml",
+    "price": 7.9,
+    "KS": 12,
+    "url": "https://static.necy.eu/i/g/450x450/122625.jpg"
+},
+{
+    "name": "Fibre Clinix Tame Šampon ",
+    "capacity": "300ml",
+    "price": 5.9,
+    "KS": 24,
+    "url": "https://dm.henkel-dam.com/is/image/henkel/SKP_SHB_FC_Product-Range_1_3840x1700"
+},
+{
+    "name": "Fibre Clinix Tame Kondicionér ",
+    "capacity": "250ml",
+    "price": 6.9,
+    "KS": 6,
+    "url": "https://vlasmejkershop.sk/wp-content/uploads/2021/02/sprejovy-kondicioner-na-nepoddajne-vlasy-fibre-clinix-tame-vlasmejkershop.jpeg"
+},
+{
+    "name": "Fibre Clinix Tame Maska ",
+    "capacity": "250ml",
+    "price": 7.9,
+    "url": "https://wszystkodowlosow.pl/data/gfx/pictures/medium/8/0/19808_1.jpg"
+},
+{
+    "name": "Indola   ",
+    "url": "https://www.indola.com/content/dam/indola/master/2022/q1/homepage/img_slider_brandvalue.jpg"
+},
+{
+    "name": "Regenerační kúra",
+    "capacity": "200ml",
+    "price": 5.9
+},
+{
+    "name": "Repair Shampoo / Regeneračný šampón",
+    "capacity": "300ml",
+    "price": 4.9,
+    "KS": 12,
+    "url": "https://www.kucerave.sk/82-large_default/shea-moisture-manuka-honey-yogurt-hydrate-repair-shampoo-regeneracny-sampon.jpg"
+},
+{
+    "name": "Repair Conditioner / Regeneračný kondicionér",
+    "capacity": "300ml",
+    "price": 5.9,
+    "KS": 12,
+    "url": "https://www.kallos.sk/sub/kallos.sk/shop/product/matrix-total-results-repair-conditioner-regeneracny-kondicioner-1057.jpg"
+},
+{
+    "name": "Repair Keratin Filler / Intenzivna keratinová kúra",
+    "capacity": "300ml",
+    "price": 6.9,
+    "url": "https://im9.cz/sk/iR/importprodukt-orig/2ed/2edf0c5bb2823ea1ac3e097b7b7c4d5f--mmf400x400.jpg"
+},
+{
+    "name": "Repair Split Ends / Regeneračné sérum na končeky vlasov",
+    "capacity": "100ml",
+    "price": 5.9,
+    "url": "https://bugy.sk/images/products-cache/2388dc361c8429042698ae512d57b453/497721_w600_h600.jpg"
+},
+{
+    "name": "Color Shampoo / Šampón pre farbené vlasy",
+    "capacity": "300ml",
+    "price": 4.9,
+    "url": "https://farmavita.sk/image/cache/data/Amethyste/color_sh_all1-350x350.jpg"
+},
+{
+    "name": "Color Silver Shampoo / Šampón pre farbené vlasy so striebornými reflexami",
+    "capacity": "300ml",
+    "price": 4.9,
+    "url": "https://im9.cz/sk/iR/importprodukt-orig/cf5/cf559c8a0df0c55950432f241631af6f--mmf400x400.jpg"
+},
+{
+    "name": "Color Conditioner / Kondicionér pre farbené vlasy",
+    "capacity": "300ml",
+    "price": 5.9,
+    "url": "https://www.keune.sk/image/cache/catalog/01%20CARE%20LINE/medium-21388%20Tinta%20Color%20Care%20Conditioner%20250ml-750x750.jpg"
+},
+{
+    "name": "Color Leave-in Treatment/ Kúra pre farbené vlasy",
+    "capacity": "200ml",
+    "price": 5.9,
+    "url": "https://im9.cz/sk/iR/importprodukt-orig/065/065fd756fa0bb3137ce74d7a81347bd8--mmf400x400.jpg"
+},
+{
+    "name": "Hydrate Shampoo/ Hydratačný šampón",
+    "capacity": "300ml",
+    "price": 4.9,
+    "KS": 12,
+    "url": "https://m.media-amazon.com/images/I/41ugbLmm3PS._AC_SY1000_.jpg"
+},
+{
+    "name": "Hydrate Spray Conditioner / Hydratačný sprejový kondicionér",
+    "capacity": "300ml",
+    "price": 5.9,
+    "url": "https://cdn.myshoptet.com/usr/www.lukaslederereshop.cz/user/shop/big/368_hydrate-spray-conditioner-250ml.png?60a9739d"
+},
+{
+    "name": "Dry Texture Spray ",
+    "capacity": "300ml",
+    "price": 5.9,
+    "url": "https://media.allure.com/photos/62b2252b3efa3902b5bd58cc/16:9/w_2580,c_limit/6-21%20best%20texturizers.jpg"
+},
+{
+    "name": "Dry SHP Foam ",
+    "capacity": "300ml",
+    "price": 5.9,
+    "url": "https://m.media-amazon.com/images/I/51RBQ-qvrJL._AC_SY580_.jpg"
+},
+{
+    "name": "Volumising Powder / capacityový púder",
+    "capacity": "10g",
+    "price": 5.9,
+    "url": ""
+},
+{
+    "name": "Rough Up ",
+    "capacity": "85ml",
+    "price": 5.9,
+    "url": "https://merriam-webster.com/assets/mw/static/social-media-share/mw-logo-245x245@1x.png"
+},
+{
+    "name": "Curl Cream / Krém pre vlnité vlasy",
+    "capacity": "200ml",
+    "price": 5.9,
+    "url": "https://im9.cz/sk/iR/importprodukt-orig/d1c/d1c4962902da7ace2295d2e2101b9396--mmf400x400.jpg"
+},
+{
+    "name": "Strong Mousse / Pena pre silnú fixáciu a capacity",
+    "capacity": "300ml",
+    "price": 5.9,
+    "url": ""
+},
+{
+    "name": "Thermal Protector / Sérum na ochranu vlasov pred účinkami tepla",
+    "capacity": "300ml",
+    "price": 5.9,
+    "url": "https://www.balkystyle.sk/hodinky/sperk-7.jpg"
+},
+{
+    "name": "Blow-dry & Volume Spray - Sprej na sušenie a capacity",
+    "capacity": "200ml",
+    "price": 5.9,
+    "url": "https://upload.wikimedia.org/wikipedia/en/b/b1/Blow_dry.jpg"
+},
+{
+    "name": "Glue - lepidlo",
+    "capacity": "150ml",
+    "price": 5.9,
+    "url": "https://m.media-amazon.com/images/I/31Mhj+GA33L._AC_SY580_.jpg"
+},
+{
+    "name": "Fibremold - Vláknitá guma",
+    "capacity": "85ml",
+    "price": 5.9,
+    "url": "https://im9.cz/iR/importprodukt-orig/104/1043fde83c20147a537e5bab1d11bd57--mmf400x400.jpg"
+},
+{
+    "name": "Flexible Hairspray /Vlasový sprej pre flexibilnú fixáciu",
+    "capacity": "500ml",
+    "price": 5.9,
+    "url": "https://dm.henkel-dam.com/is/image/henkel/SKP_SHB_SIL_ProductRange_3840x1700"
+},
+{
+    "name": "Gelspray /Gel v spreji",
+    "capacity": "300ml",
+    "price": 5.9,
+    "url": "https://www.finclub.sk/galeria/2_2024/aloe-vera-gel-spray-default.jpg"
+},
+{
+    "name": "Smoothening Sérum ",
+    "capacity": "200ml",
+    "price": 5.9,
+    "url": "https://m.media-amazon.com/images/I/41HpI+onb6L._AC_SY1000_.jpg"
+},
+{
+    "name": "Strong Lacqer",
+    "capacity": "500ml",
+    "price": 5.9,
+    "url": "https://www.opi.com/sites/all/themes/opi2/images/logo_opi_cia.png"
+},
+{
+    "name": "Salt Spray",
+    "capacity": "200ml",
+    "price": 5.9,
+    "url": "https://m.media-amazon.com/images/I/41YzYycipsL._AC_SY1000_.jpg"
+},
