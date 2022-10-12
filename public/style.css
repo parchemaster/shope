@@ -1,17 +1,17 @@
 .main-container {
-    border: 3px solid #000000;
+    /* border: 3px solid #000000; */
     /* display: grid; */
 
 }
 
 .buttons {
-    border: 3px solid #000000;
+    /* border: 3px solid #000000; */
     display: grid;
-    grid-auto-flow: column;
+    grid-template-columns: auto auto auto auto;
     margin: 10% 10% 0 10%;
 }
 
-.buttons > div {
+.button {
     border: 3px solid #000000;
     margin: 5px;
     font-size: 2vw;
@@ -20,7 +20,7 @@
 }
 
 .products {
-    border: 3px solid #000000;
+    /* border: 3px solid #000000; */
     margin: 2% 10% 0 10%;
     display: grid;
     grid-auto-flow: row;

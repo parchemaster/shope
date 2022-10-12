@@ -1,14 +1,17 @@
 import React from 'react';
-import dataJSON from "./data/henkel_data.json"
+import dataJSON from "./data/henkel_data"
 import Product from "./components/Product"
+import Button from "./components/Button"
+import buttonsDB from "./data/buttons"
 
 
 export default function App() {
     const [data, setData] = React.useState(dataJSON)
-    const [adhesives, setAdhesives] = React.useState(dataJSON['adhesives-2022'])
-    const [cosmetics, setCosmetics] = React.useState(dataJSON['cosmetics-2022'])
-    const [detergents, setDetergents] = React.useState(dataJSON['detergents-2022'])
-    const [schwarzkopf, setSchwarzkopf] = React.useState(dataJSON['schwarzkopf-Professional-2022'])
+    const [adhesives, setAdhesives] = React.useState(dataJSON['Adhesives'])
+    const [cosmetics, setCosmetics] = React.useState(dataJSON['Cosmetics'])
+    const [detergents, setDetergents] = React.useState(dataJSON['Detergents'])
+    const [schwarzkopf, setSchwarzkopf] = React.useState(dataJSON['Schwarzkopf'])
+    const [buttons, setButtons] = React.useState(buttonsDB)
 
     // Function for looking for a url image by product name at the start of program. 
     // For running this function again the key and project id (cx) have to be changed. 
@@ -33,18 +36,50 @@ export default function App() {
     //     })
     // }, [])
 
-    const elements = schwarzkopf.map(item => <Product imgUrl={item.url} name={item.name} price={item.price} capacity={item.capacity}/>)
+    // Update filter 
+    function handleClick(id) {
+        setButtons(preButtons => preButtons.map(button => {
+            if(button.id === id) {
+                console.log(buttons)
+                return {...button, isClicked: !button.isClicked}
+            }
+            else {
+                return button;
+            }
+        }))
+    }
+
+    React.useEffect(() => {
+
+        buttons.forEach(button => {
+            setData(preData => preData.map(item => {
+                if(item.type === button.name && button.isClicked) {
+                    return {...item, isVisible: button.isClicked}
+                }
+                else if (item.type === button.name && !button.isClicked) {
+                    return {...item, isVisible: button.isClicked}
+                }
+                else {
+                    return item
+                }
+            }))
+        })
+        
+    }, [buttons])
+
+    let uniqueChars = data.filter((element, index) => {
+        return data.indexOf(element) === index;
+    });
+    
+    console.log(uniqueChars);
 
     return(
         <div className="main-container">
             <div className="buttons">
-                <div>Adhesives</div>
-                <div>Cosmetics</div>
-                <div>Detergents</div>
-                <div>Schwarzkopf</div>
+                {buttons.map(button => <Button key={button.id} isClicked={button.isClicked} name={button.name} handleClick={() => handleClick(button.id)}/>)}
             </div>
             <div className="products">
-                {elements}
+                {data.map(item => item.isVisible && <Product key={item.name + item.capacity} imgUrl={item.url} name={item.name} price={item.price} capacity={item.capacity}/>)}
             </div>
         </div>
 
